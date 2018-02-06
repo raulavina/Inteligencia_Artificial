@@ -1,0 +1,15 @@
+ Problema 1
+    A=input('Ingrese el valor de A: ');
+    B=input('Ingrese el valor de B: ');
+    C=input('Ingrese el valor de C: ');
+
+    fprintf('La primera solución de la ecuación cuadratica es %2.2f + %2.2f i\n',X1,X3);
+    fprintf('La segunda solución de la ecuación cuadratica es %2.2f + %2.2f i\n',X2,X4);
+
+ Problema 3
+    fprintf('El numero primo %d es %d',p,s)
+
+Problema 4
+    a = input('Introduzca el lado a del Triangulo: ');
+    b = input('Introduzca el lado b del Triangulo: ');
+    c = input('Introduzca el lado c del Triangulo: ');
